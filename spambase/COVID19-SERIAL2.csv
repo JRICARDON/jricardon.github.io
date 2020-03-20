@@ -1,0 +1,469 @@
+Event index;Index ID;Secondary ID;City;Province;Index - infection location;Index - symptom onset date;Index - Age;Index - Sex;Secondary - infection location;Seconday - symptom onset date;Seconday - Age;Seconday-Sex;Contact type;URL;Data source
+1;23;26;Tianjin;Tianjin;Tianjin;16;47;Male;Tianjin;20;74;Female;Non-household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+2;23;27;Tianjin;Tianjin;Tianjin;16;47;Male;Tianjin;20;75;Male;Non-household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+3;28;30;Tianjin;Tianjin;Xiaogan;15;61;Female;Tianjin;21;61;Male;Household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+4;35;37;Tianjin;Tianjin;Tianjin;16;49;Male;Tianjin;20;48;Female;No information;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+5;22;43;Tianjin;Tianjin;Wuhan;14;57;Male;Tianjin;16;90;Male;Non-household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+6;49;53;Tianjin;Tianjin;Tianjin;18;35;Male;Tianjin;22;66;Male;Household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+7;62;60;Tianjin;Tianjin;Beijing;15;43;Female;Tianjin;17;52;Female;Non-household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+8;60;61;Tianjin;Tianjin;Tianjin;17;52;Female;Tianjin;18;53;Male;Non-household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+9;60;63;Tianjin;Tianjin;Tianjin;17;52;Female;Tianjin;11;35;Female;Non-household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+10;63;64;Tianjin;Tianjin;Tianjin;11;35;Female;Tianjin;19;26;Female;Non-household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+11;65;67;Tianjin;Tianjin;Tianjin;23;66;Female;Tianjin;20;37;Female;Non-household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+12;66;71;Tianjin;Tianjin;Tianjin;17;36;Female;Tianjin;22;31;Male;Non-household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+13;68;74;Tianjin;Tianjin;Tianjin;21;46;Female;Tianjin;24;76;Female;Household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+14;88;79;Tianjin;Tianjin;Tianjin;23;43;Female;Tianjin;23;45;Male;Household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+15;76;82;Tianjin;Tianjin;Tianjin;22;65;Female;Tianjin;21;65;Male;Non-household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+16;63;84;Tianjin;Tianjin;Tianjin;11;35;Female;Tianjin;24;42;Female;Non-household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+17;63;85;Tianjin;Tianjin;Tianjin;11;35;Female;Tianjin;25;36;Male;Household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+18;76;86;Tianjin;Tianjin;Tianjin;22;65;Female;Tianjin;17;56;Female;Household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+19;76;87;Tianjin;Tianjin;Tianjin;22;65;Female;Tianjin;21;65;Male;Household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+20;22;93;Tianjin;Tianjin;Wuhan;14;57;Male;Tianjin;22;56;Female;Non-household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+21;95;96;Tianjin;Tianjin;Tianjin;12;34;Male;Tianjin;18;42;Male;Household;http://wsjk.tj.gov.cn/;Tianjin Municipal Health Commission
+22;97;98;Cangzhou;Hebei;Wuhan;-1;80;Male;Cangzhou;12;59;Male;Non-household;https://weibo.com/cangzhounews;Cangzhou Municipal Health Commission
+23;97;106;Cangzhou;Hebei;Wuhan;-1;80;Male;Cangzhou;13;41;Male;Non-household;https://weibo.com/cangzhounews;Cangzhou Municipal Health Commission
+24;97;107;Cangzhou;Hebei;Wuhan;-1;80;Male;Cangzhou;13;61;Male;Non-household;https://weibo.com/cangzhounews;Cangzhou Municipal Health Commission
+25;97;108;Cangzhou;Hebei;Wuhan;-1;80;Male;Cangzhou;15;62;Male;Non-household;https://weibo.com/cangzhounews;Cangzhou Municipal Health Commission
+26;109;110;Cangzhou;Hebei;Wuhan;13;29;Female;Cangzhou;18;85;Female;Household;https://weibo.com/cangzhounews;Cangzhou Municipal Health Commission
+27;97;111;Cangzhou;Hebei;Wuhan;-1;80;Male;Cangzhou;14;72;Female;Non-household;https://weibo.com/cangzhounews;Cangzhou Municipal Health Commission
+28;103;112;Cangzhou;Hebei;Wuhan;15;38;Male;Cangzhou;17;49;Female;Non-household;https://weibo.com/cangzhounews;Cangzhou Municipal Health Commission
+29;97;119;Cangzhou;Hebei;Wuhan;-1;80;Male;Cangzhou;9;51;Female;Non-household;https://weibo.com/cangzhounews;Cangzhou Municipal Health Commission
+30;97;120;Cangzhou;Hebei;Wuhan;-1;80;Male;Cangzhou;15;62;Female;Non-household;https://weibo.com/cangzhounews;Cangzhou Municipal Health Commission
+31;148;154;Tangshan;Hebei;Tangshan;18;28;Female;Tangshan;18;67;Male;Non-household;http://wsjkwyh.tangshan.gov.cn/;Tangshan Municipal Health Commission
+32;154;155;Tangshan;Hebei;Tangshan;18;67;Male;Tangshan;25;32;Male;Non-household;http://wsjkwyh.tangshan.gov.cn/;Tangshan Municipal Health Commission
+33;154;157;Tangshan;Hebei;Tangshan;18;67;Male;Tangshan;23;71;Female;Non-household;http://wsjkwyh.tangshan.gov.cn/;Tangshan Municipal Health Commission
+34;154;163;Tangshan;Hebei;Tangshan;18;67;Male;Tangshan;30;45;Male;Non-household;http://wsjkwyh.tangshan.gov.cn/;Tangshan Municipal Health Commission
+35;183;184;Shijiazhuang;Hebei;Guangzhou;14;42;Male;Shijiazhuang;20;67;Male;No information;http://wsjk.sjz.gov.cn;Shijiazhuang Municipal Health Commission
+36;201;202;Chengde;Hebei;Xiaogan;23;;Female;Chengde;24;;Male;Non-household;http://wjw.chengde.gov.cn/;Chengde Municipal Health Commission
+37;211;220;Xingtai;Hebei;Wuhan;18;59;Male;Xingtai;22;34;Female;Household;http://wsjkw.xingtai.gov.cn;Xingtai Municipal Health Commission
+38;227;229;Qinhuangdao;Hebei;Beijing;13;27;Male;Qinhuangdao;24;50;Female;Non-household;http://wjw.qhd.gov.cn/;Qinhuangdao Municipal Health Commission
+39;271;275;Langfang;Hebei;Wuhan;2;57;Female;Langfang;19;33;Female;Non-household;http://wjw.lf.gov.cn/html/index.html;Langfang Municipal Health Commission
+40;267;277;Langfang;Hebei;Wuhan;13;21;Male;Langfang;23;35;Male;Non-household;http://wjw.lf.gov.cn/html/index.html;Langfang Municipal Health Commission
+41;267;280;Langfang;Hebei;Wuhan;13;21;Male;Langfang;28;35;Male;Non-household;http://wjw.lf.gov.cn/html/index.html;Langfang Municipal Health Commission
+42;284;286;Langfang;Hebei;Langfang;17;30;Male;Langfang;28;53;Female;Non-household;http://wjw.lf.gov.cn/html/index.html;Langfang Municipal Health Commission
+43;448;457;Chengdu;Sichuan;Chengdu;21;22;Female;Chengdu;18;47;Male;Household;http://cdwjw.chengdu.gov.cn/cdwjw/c135632/yqbd.shtml;Chengdu Municipal Health Commission
+44;470;471;Chengdu;Sichuan;Hubei;23;31;Female;Chengdu;23;9;Male;No information;http://cdwjw.chengdu.gov.cn/cdwjw/c135632/yqbd.shtml;Chengdu Municipal Health Commission
+45;479;480;Chengdu;Sichuan;No information;18;43;Female;Chengdu;18;64;Female;No information;http://cdwjw.chengdu.gov.cn/cdwjw/c135632/yqbd.shtml;Chengdu Municipal Health Commission
+46;465;483;Chengdu;Sichuan;Wuhan;21;47;Male;Chengdu;25;47;Female;No information;http://cdwjw.chengdu.gov.cn/cdwjw/c135632/yqbd.shtml;Chengdu Municipal Health Commission
+47;500;499;Chengdu;Sichuan;Chengdu;13;55;Male;Chengdu;20;54;Female;Household;http://cdwjw.chengdu.gov.cn/cdwjw/c135632/yqbd.shtml;Chengdu Municipal Health Commission
+48;521;527;Bazhong;Sichuan;Wuhan;21;34;Male;Bazhong;25;28;Female;No information;http://wsjkw.cnbz.gov.cn/index.html;Bazhong Municipal Health Commission
+49;521;528;Bazhong;Sichuan;Wuhan;21;34;Male;Bazhong;25;60;Female;No information;http://wsjkw.cnbz.gov.cn/index.html;Bazhong Municipal Health Commission
+50;521;529;Bazhong;Sichuan;Wuhan;21;34;Male;Bazhong;25;4;Male;No information;http://wsjkw.cnbz.gov.cn/index.html;Bazhong Municipal Health Commission
+51;521;530;Bazhong;Sichuan;Wuhan;21;34;Male;Bazhong;25;2;Male;No information;http://wsjkw.cnbz.gov.cn/index.html;Bazhong Municipal Health Commission
+52;514;531;Bazhong;Sichuan;Wuhan;16;52;Female;Bazhong;23;19;Male;No information;http://wsjkw.cnbz.gov.cn/index.html;Bazhong Municipal Health Commission
+53;525;532;Bazhong;Sichuan;Wuhan;19;45;Male;Bazhong;22;53;Female;Non-household;http://wsjkw.cnbz.gov.cn/index.html;Bazhong Municipal Health Commission
+54;559;563;Deyang;Sichuan;Wuhan;17;47;Female;Deyang;19;47;Male;Household;https://wjw.deyang.gov.cn/;Deyang Municipal Health Commission
+55;559;564;Deyang;Sichuan;Wuhan;17;47;Female;Deyang;19;44;Female;Household;https://wjw.deyang.gov.cn/;Deyang Municipal Health Commission
+56;560;565;Deyang;Sichuan;Wuhan;18;53;Male;Deyang;20;45;Male;Non-household;https://wjw.deyang.gov.cn/;Deyang Municipal Health Commission
+57;559;566;Deyang;Sichuan;Wuhan;17;47;Female;Deyang;20;66;Female;Household;https://wjw.deyang.gov.cn/;Deyang Municipal Health Commission
+58;560;568;Deyang;Sichuan;Wuhan;18;53;Male;Deyang;20;44;Male;No information;https://wjw.deyang.gov.cn/;Deyang Municipal Health Commission
+59;567;570;Deyang;Sichuan;Jingzhou, Hubei Province;20;29;Female;Deyang;28;31;Male;Household;https://wjw.deyang.gov.cn/;Deyang Municipal Health Commission
+60;559;571;Deyang;Sichuan;Wuhan;17;47;Female;Deyang;23;45;Male;Household;https://wjw.deyang.gov.cn/;Deyang Municipal Health Commission
+61;578;581;Ganzi;Sichuan;Chengdu;22;51;Male;Ganzi;23;49;Male;No information;http://wjw.gzz.gov.cn/;Ganzi Tibetan Autonomous Prefecture Health Commission
+62;574;582;Ganzi;Sichuan;Wuhan;13;25;Female;Ganzi;24;28;Female;No information;http://wjw.gzz.gov.cn/;Ganzi Tibetan Autonomous Prefecture Health Commission
+63;610;611;Guang'an;Sichuan;No information;24;49;Female;Guang'an;26;45;Male;No information;http://wjw.guang-an.gov.cn/;Guang'an Municipal Health Commission
+64;610;612;Guang'an;Sichuan;No information;24;49;Female;Guang'an;26;21;Male;No information;http://wjw.guang-an.gov.cn/;Guang'an Municipal Health Commission
+65;623;624;Leshan;Sichuan;Wuhan;15;32;Male;Leshan;26;49;Female;Household;http://swjj.leshan.gov.cn;Leshan Municipal Health Commission
+66;625;626;Liangshan;Sichuan;Wuhan;13;28;Female;Liangshan;14;32;Male;No information;http://wjw.lsz.gov.cn/;Liangshan Municipal Health Commission
+67;635;636;Luzhou;Sichuan;Wuhan;15;31;Male;Luzhou;15;24;Female;No information;https://weibo.com/luzhouzhengwu;Official Weibo of Information Office of Luzhou municipal People's government
+68;654;653;Luzhou;Sichuan;Luzhou;15;50;Female;Luzhou;17;57;Male;Household;https://weibo.com/luzhouzhengwu;Official Weibo of Information Office of Luzhou municipal People's government
+69;655;656;Luzhou;Sichuan;No information;16;56;Female;Luzhou;16;63;Male;Household;https://weibo.com/luzhouzhengwu;Official Weibo of Information Office of Luzhou municipal People's government
+70;696;703;Nanchong;Sichuan;No information;20;47;Male;Nanchong;22;67;Female;No information;http://wsjsw.nanchong.gov.cn;Nanchong Municipal Health Commission
+71;686;704;Nanchong;Sichuan;No information;19;59;Male;Nanchong;23;35;Female;Non-household;http://wsjsw.nanchong.gov.cn;Nanchong Municipal Health Commission
+72;707;708;Neijiang;Sichuan;Wuhan;13;44;Female;Neijiang;13;47;Male;No information;http://wsj.neijiang.gov.cn/;Neijiang Municipal Health Commission
+73;707;709;Neijiang;Sichuan;Wuhan;13;44;Female;Neijiang;13;16;Male;No information;http://wsj.neijiang.gov.cn/;Neijiang Municipal Health Commission
+74;712;717;Neijiang;Sichuan;Wuhan;19;36;Male;Neijiang;20;33;Male;Non-household;http://wsj.neijiang.gov.cn/;Neijiang Municipal Health Commission
+75;707;723;Neijiang;Sichuan;Wuhan;13;44;Female;Neijiang;27;45;Male;Household;http://wsj.neijiang.gov.cn/;Neijiang Municipal Health Commission
+76;725;726;Panzhihua;Sichuan;No information;19;49;Male;Panzhihua;19;48;Female;No information;http://wjw.panzhihua.gov.cn/;Panzhihua Municipal Health Commission
+77;725;727;Panzhihua;Sichuan;No information;19;49;Male;Panzhihua;19;50;Female;No information;http://wjw.panzhihua.gov.cn/;Panzhihua Municipal Health Commission
+78;725;728;Panzhihua;Sichuan;No information;19;49;Male;Panzhihua;19;24;Male;No information;http://wjw.panzhihua.gov.cn/;Panzhihua Municipal Health Commission
+79;725;729;Panzhihua;Sichuan;No information;19;49;Male;Panzhihua;19;46;Male;No information;http://wjw.panzhihua.gov.cn/;Panzhihua Municipal Health Commission
+80;725;730;Panzhihua;Sichuan;No information;19;49;Male;Panzhihua;19;18;Male;No information;http://wjw.panzhihua.gov.cn/;Panzhihua Municipal Health Commission
+81;725;732;Panzhihua;Sichuan;No information;19;49;Male;Panzhihua;21;54;Male;Non-household;http://wjw.panzhihua.gov.cn/;Panzhihua Municipal Health Commission
+82;732;733;Panzhihua;Sichuan;Panzhihua;21;54;Male;Panzhihua;20;22;Male;Non-household;http://wjw.panzhihua.gov.cn/;Panzhihua Municipal Health Commission
+83;725;734;Panzhihua;Sichuan;No information;19;49;Male;Panzhihua;24;78;Female;Non-household;http://wjw.panzhihua.gov.cn/;Panzhihua Municipal Health Commission
+84;725;735;Panzhihua;Sichuan;No information;19;49;Male;Panzhihua;28;48;Nana;Non-household;http://wjw.panzhihua.gov.cn/;Panzhihua Municipal Health Commission
+85;741;740;Suining;Sichuan;Wuhan;3;35;Male;Suining;18;31;Male;No information;http://swjw.suining.gov.cn/home;Suining Municipal Health Commission
+86;787;786;Fuyang;Anhui;Wuhan;16;48;Male;Fuyang;17;49;Female;No information;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+87;776;788;Fuyang;Anhui;Wuhan;8;21;Female;Fuyang;19;27;Female;Household;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+88;784;797;Fuyang;Anhui;Fuyang;10;44;Male;Fuyang;16;45;Female;Household;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+89;784;798;Fuyang;Anhui;Fuyang;10;44;Male;Fuyang;15;20;Female;Household;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+90;787;808;Fuyang;Anhui;Wuhan;16;48;Male;Fuyang;20;21;Female;Household;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+91;801;816;Fuyang;Anhui;Wuhan;10;31;Female;Fuyang;16;30;Male;Household;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+92;800;821;Fuyang;Anhui;Wuhan;18;47;Male;Fuyang;22;41;Female;No information;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+93;800;822;Fuyang;Anhui;Wuhan;18;47;Male;Fuyang;22;1;Female;Household;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+94;797;829;Fuyang;Anhui;Fuyang;16;45;Female;Fuyang;18;55;Male;Non-household;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+95;830;831;Fuyang;Anhui;Fuyang;13;68;Female;Fuyang;15;67;Male;Non-household;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+96;784;840;Fuyang;Anhui;Fuyang;10;44;Male;Fuyang;21;25;Male;Non-household;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+97;839;846;Fuyang;Anhui;Wuhan;18;47;Male;Fuyang;17;46;Female;Household;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+98;823;850;Fuyang;Anhui;Xiao Shan;18;49;Male;Fuyang;27;47;Female;Non-household;http://wjw.fy.gov.cn/;Fuyang Municipal Health Commission
+99;857;859;Hefei;Anhui;Wuhan;0;50;Female;Hefei;5;40;Female;Non-household;http://wjw.hefei.gov.cn/;Hefei Municipal Health Commission
+100;857;860;Hefei;Anhui;Wuhan;0;50;Female;Hefei;7;51;Male;Non-household;http://wjw.hefei.gov.cn/;Hefei Municipal Health Commission
+101;859;868;Hefei;Anhui;Hefei;5;40;Female;Hefei;14;40;Male;No information;http://wjw.hefei.gov.cn/;Hefei Municipal Health Commission
+102;869;870;Hefei;Anhui;Wuhan;12;22;Male;Hefei;14;22;Male;Non-household;http://wjw.hefei.gov.cn/;Hefei Municipal Health Commission
+103;869;871;Hefei;Anhui;Wuhan;12;22;Male;Hefei;15;22;Male;Non-household;http://wjw.hefei.gov.cn/;Hefei Municipal Health Commission
+104;869;872;Hefei;Anhui;Wuhan;12;22;Male;Hefei;14;22;Male;Non-household;http://wjw.hefei.gov.cn/;Hefei Municipal Health Commission
+105;869;873;Hefei;Anhui;Wuhan;12;22;Male;Hefei;12;24;Male;Non-household;http://wjw.hefei.gov.cn/;Hefei Municipal Health Commission
+106;899;898;Hefei;Anhui;Wuhan;18;28;Male;Hefei;17;27;Female;No information;http://wjw.hefei.gov.cn/;Hefei Municipal Health Commission
+107;882;927;Hefei;Anhui;Wuhan;8;56;Female;Hefei;9;57;Male;Non-household;http://wjw.hefei.gov.cn/;Hefei Municipal Health Commission
+108;978;948;Hefei;Anhui;Hefei;17;52;Male;Hefei;24;43;Female;Non-household;http://wjw.hefei.gov.cn/;Hefei Municipal Health Commission
+109;944;980;Hefei;Anhui;No information;17;29;Male;Hefei;27;55;Male;No information;http://wjw.hefei.gov.cn/;Hefei Municipal Health Commission
+110;986;985;Hefei;Anhui;Hefei;12;73;Female;Hefei;21;78;Male;Non-household;http://wjw.hefei.gov.cn/;Hefei Municipal Health Commission
+111;1001;1000;Huaibei;Anhui;Suzhou;18;27;Male;Huaibei;18;57;Female;Non-household;http://wjw.huaibei.gov.cn/xxfb/tzgg/index.html;Huaibei Municipal Health Commission
+112;994;1003;Huaibei;Anhui;Wuhan;-1;45;Female;Huaibei;16;28;Female;Non-household;http://wjw.huaibei.gov.cn/xxfb/tzgg/index.html;Huaibei Municipal Health Commission
+113;1012;1014;Huainan;Anhui;Wuhan;9;59;Female;Huainan;12;62;Male;Non-household;http://wjw.huainan.gov.cn/xwzx/tzgg/index.html;Huainan Municipal Health Commission
+114;1047;1059;Lu'an;Anhui;Suzhou;15;34;Male;Lu'an;18;57;Female;Non-household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+115;1062;1063;Lu'an;Anhui;Lu'an;17;41;Male;Lu'an;20;41;Female;Non-household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+116;1064;1065;Lu'an;Anhui;Shanghai;19;37;Male;Lu'an;23;33;Female;Household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+117;1044;1066;Lu'an;Anhui;Bengbu;12;45;Male;Lu'an;22;65;Female;Non-household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+118;1035;1067;Lu'an;Anhui;Wuhan;8;38;Male;Lu'an;23;37;Female;Household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+119;1074;1068;Lu'an;Anhui;Wuhan;12;22;Male;Lu'an;25;70;Male;Household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+120;1047;1069;Lu'an;Anhui;Suzhou;15;34;Male;Lu'an;23;26;Male;Household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+121;1048;1070;Lu'an;Anhui;Lu'an;15;37;Male;Lu'an;21;64;Male;Non-household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+122;1047;1071;Lu'an;Anhui;Suzhou;15;34;Male;Lu'an;25;57;Male;Non-household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+123;1051;1073;Lu'an;Anhui;Wuhan;18;45;Male;Lu'an;23;41;Female;Household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+124;1064;1077;Lu'an;Anhui;Shanghai;19;37;Male;Lu'an;26;61;Female;Non-household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+125;1074;1079;Lu'an;Anhui;Wuhan;12;22;Male;Lu'an;27;42;Male;Non-household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+126;1067;1083;Lu'an;Anhui;Lu'an;23;37;Female;Lu'an;26;42;Male;Household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+127;1067;1084;Lu'an;Anhui;Lu'an;23;37;Female;Lu'an;27;3;Male;Household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+128;1074;1086;Lu'an;Anhui;Wuhan;12;22;Male;Lu'an;27;42;Male;Household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+129;1062;1087;Lu'an;Anhui;Lu'an;17;41;Male;Lu'an;28;29;Male;Household;http://www.luan.gov.cn/zwzx/jrla/zxyw/index.html;Lu'an Municipal People's Government
+130;1167;1168;Anqing;Anhui;Wuhan;13;25;Male;Anqing;14;50;Female;Non-household;http://wjw.anqing.gov.cn/;Anqing Municipal Health Commission
+131;1167;1169;Anqing;Anhui;Wuhan;13;25;Male;Anqing;16;53;Male;Non-household;http://wjw.anqing.gov.cn/;Anqing Municipal Health Commission
+132;1205;1206;Anqing;Anhui;Anqing;17;57;Male;Anqing;20;55;Female;Non-household;http://wjw.anqing.gov.cn/;Anqing Municipal Health Commission
+133;1205;1207;Anqing;Anhui;Anqing;17;57;Male;Anqing;22;54;Male;Non-household;http://wjw.anqing.gov.cn/;Anqing Municipal Health Commission
+134;1204;1210;Anqing;Anhui;Wuhan;24;53;Female;Anqing;25;57;Male;Non-household;http://wjw.anqing.gov.cn/;Anqing Municipal Health Commission
+135;1204;1214;Anqing;Anhui;Wuhan;24;53;Female;Anqing;23;54;Female;Household;http://wjw.anqing.gov.cn/;Anqing Municipal Health Commission
+136;1270;1271;Bozhou;Anhui;Wuhan;15;71;Male;Bozhou;16;70;Female;Non-household;http://wjw.bozhou.gov.cn/;Bozhou Municipal Health Commission
+137;1264;1281;Bozhou;Anhui;Wuhan;11;25;Female;Bozhou;18;22;Male;Non-household;http://wjw.bozhou.gov.cn/;Bozhou Municipal Health Commission
+138;1270;1292;Bozhou;Anhui;Wuhan;15;71;Male;Bozhou;16;37;Female;Non-household;http://wjw.bozhou.gov.cn/;Bozhou Municipal Health Commission
+139;1273;1297;Bozhou;Anhui;Bozhou;16;48;Male;Bozhou;13;47;Male;Non-household;http://wjw.bozhou.gov.cn/;Bozhou Municipal Health Commission
+140;1266;1305;Bozhou;Anhui;Wuhan;11;40;Female;Bozhou;16;25;Male;Non-household;http://wjw.bozhou.gov.cn/;Bozhou Municipal Health Commission
+141;1313;1318;Bozhou;Anhui;Bozhou;20;50;Male;Bozhou;24;26;Male;Household;http://wjw.bozhou.gov.cn/;Bozhou Municipal Health Commission
+142;1326;1331;Bozhou;Anhui;Bozhou;23;48;Male;Bozhou;22;42;Female;Household;http://wjw.bozhou.gov.cn/;Bozhou Municipal Health Commission
+143;1288;1332;Bozhou;Anhui;Bozhou;18;42;Female;Bozhou;17;38;Male;Non-household;http://wjw.bozhou.gov.cn/;Bozhou Municipal Health Commission
+144;1270;1333;Bozhou;Anhui;Wuhan;15;71;Male;Bozhou;23;43;Male;Non-household;http://wjw.bozhou.gov.cn/;Bozhou Municipal Health Commission
+145;1284;1336;Bozhou;Anhui;Bozhou;19;47;Male;Bozhou;21;56;Male;Non-household;http://wjw.bozhou.gov.cn/;Bozhou Municipal Health Commission
+146;1284;1342;Bozhou;Anhui;Bozhou;19;47;Male;Bozhou;24;21;Male;Non-household;http://wjw.bozhou.gov.cn/;Bozhou Municipal Health Commission
+147;1288;1344;Bozhou;Anhui;Bozhou;18;42;Female;Bozhou;17;35;Female;Non-household;http://wjw.bozhou.gov.cn/;Bozhou Municipal Health Commission
+148;1377;1378;Suzhou;Anhui;Wuhan;2;49;Male;Suzhou;5;46;Female;Non-household;http://wjw.ahsz.gov.cn/;Suzhou Municipal Health Commission
+149;1386;1390;Suzhou;Anhui;Wuhan;22;38;Male;Suzhou;22;38;Female;Non-household;http://wjw.ahsz.gov.cn/;Suzhou Municipal Health Commission
+150;1386;1391;Suzhou;Anhui;Wuhan;22;38;Male;Suzhou;26;39;Female;No information;http://wjw.ahsz.gov.cn/;Suzhou Municipal Health Commission
+151;1439;1452;Jinan;Shandong;Wuhan;9;32;Male;Jinan;20;59;Female;No information;http://jnmhc.jinan.gov.cn/col/col50360/index.html;Jinan Municipal Health Commission
+152;1462;1463;Jinan;Shandong;Jinan;13;49;Female;Jinan;16;22;Female;Non-household;http://jnmhc.jinan.gov.cn/col/col50360/index.html;Jinan Municipal Health Commission
+153;1461;1472;Jinan;Shandong;Jinan;13;39;Female;Jinan;17;66;Female;No information;http://jnmhc.jinan.gov.cn/col/col50360/index.html;Jinan Municipal Health Commission
+154;1496;1515;Qingdao;Shandong;Qingdao;15;28;Male;Qingdao;25;43;Female;Non-household;http://wsjsw.qingdao.gov.cn/;Qingdao Municipal Health Commission
+155;1612;1613;Jining;Shandong;Beijing;15;48;Male;Jining;18;44;Female;No information;http://wjw.jining.gov.cn/;Jining Municipal Health Commission
+156;1612;1614;Jining;Shandong;Beijing;15;48;Male;Jining;19;38;Female;No information;http://wjw.jining.gov.cn/;Jining Municipal Health Commission
+157;1647;1651;Liaocheng;Shandong;Wuhan;16;32;Male;Liaocheng;17;53;Female;No information;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+158;1648;1653;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;17;46;Female;Household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+159;1648;1654;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;19;40;Male;Non-household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+160;1648;1659;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;21;65;Female;No information;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+161;1648;1660;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;19;19;Male;No information;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+162;1648;1661;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;19;10;Male;Household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+163;1648;1662;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;21;43;Male;Household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+164;1648;1664;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;21;49;Female;Household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+165;1648;1665;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;26;49;Male;Non-household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+166;1648;1667;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;12;41;Female;Household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+167;1648;1669;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;14;73;Female;Non-household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+168;1648;1670;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;17;62;Male;Non-household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+169;1648;1671;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;17;67;Female;Household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+170;1648;1672;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;23;46;Male;Household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+171;1648;1673;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;21;68;Female;Household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+172;1648;1674;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;23;72;Male;Household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+173;1648;1675;Liaocheng;Shandong;Liaocheng;17;40;Male;Liaocheng;20;62;Female;Household;http://wjw.liaocheng.gov.cn/;Liaocheng Municipal Health Commission
+174;1684;1685;Linyi;Shandong;Wuhan;9;41;Male;Linyi;15;38;Female;No information;http://wsjsw.linyi.gov.cn/;Linyi Municipal Health Commission
+175;1691;1699;Linyi;Shandong;Linyi;11;51;Male;Linyi;14;47;Female;Non-household;http://wsjsw.linyi.gov.cn/;Linyi Municipal Health Commission
+176;1718;1725;sunshine;Shandong;Wuhan;13;57;Male;sunshine;19;64;Male;No information;http://wsjkw.rizhao.gov.cn/;Rizhao Municipal Health Commission
+177;1718;1727;sunshine;Shandong;Wuhan;13;57;Male;sunshine;22;56;Female;Non-household;http://wsjkw.rizhao.gov.cn/;Rizhao Municipal Health Commission
+178;1734;1737;Taian;Shandong;Taian;14;88;Female;Taian;13;67;Male;No information;http://wjw.taian.gov.cn/;Taian Municipal Health Commission
+179;1739;1740;Taian;Shandong;Wuhan;17;32;Male;Taian;17;20;Male;No information;http://wjw.taian.gov.cn/;Taian Municipal Health Commission
+180;1755;1760;Weihai;Shandong;No information;16;39;Male;Weihai;15;66;Male;Household;http://wsjkw.weihai.gov.cn/;Weihai Municipal Health Commission
+181;1761;1763;Weihai;Shandong;Weihai;13;51;Male;Weihai;14;53;Male;Non-household;http://wsjkw.weihai.gov.cn/;Weihai Municipal Health Commission
+182;1755;1764;Weihai;Shandong;No information;16;39;Male;Weihai;17;66;Female;Household;http://wsjkw.weihai.gov.cn/;Weihai Municipal Health Commission
+183;1755;1771;Weihai;Shandong;No information;16;39;Male;Weihai;23;3;Male;Non-household;http://wsjkw.weihai.gov.cn/;Weihai Municipal Health Commission
+184;1759;1772;Weihai;Shandong;Wuhan;16;31;Male;Weihai;18;56;Male;Household;http://wsjkw.weihai.gov.cn/;Weihai Municipal Health Commission
+185;1766;1773;Weihai;Shandong;Wuhan;15;46;Female;Weihai;19;86;Male;Household;http://wsjkw.weihai.gov.cn/;Weihai Municipal Health Commission
+186;1761;1777;Weihai;Shandong;Weihai;13;51;Male;Weihai;18;50;Female;No information;http://wsjkw.weihai.gov.cn/;Weihai Municipal Health Commission
+187;1790;1791;Weifang;Shandong;No information;11;45;Male;Weifang;10;33;Male;No information;http://wsjkw.weifang.gov.cn/;Weifang Municipal Health Commission
+188;1790;1792;Weifang;Shandong;No information;11;45;Male;Weifang;14;31;Female;No information;http://wsjkw.weifang.gov.cn/;Weifang Municipal Health Commission
+189;1790;1797;Weifang;Shandong;No information;11;45;Male;Weifang;23;62;Female;Non-household;http://wsjkw.weifang.gov.cn/;Weifang Municipal Health Commission
+190;1790;1798;Weifang;Shandong;No information;11;45;Male;Weifang;15;48;Male;Non-household;http://wsjkw.weifang.gov.cn/;Weifang Municipal Health Commission
+191;1818;1819;Zaozhuang;Shandong;Wuhan;12;34;Male;Zaozhuang;17;37;Female;No information;http://wsjkw.zaozhuang.gov.cn/;Zaozhuang Municipal Health Commission
+192;1818;1820;Zaozhuang;Shandong;Wuhan;12;34;Male;Zaozhuang;17;60;Female;No information;http://wsjkw.zaozhuang.gov.cn/;Zaozhuang Municipal Health Commission
+193;1906;1904;Dongguan;Guangdong;Xiaogan;16;41;Female;Dongguan;19;9;Female;No information;http://dghb.dg.gov.cn/;Dongguan Municipal Health Bureau
+194;1917;1918;Maoming;Guangdong;Suizhou City, Hubei Province;20;53;Male;Maoming;23;53;Male;No information;https://weibo.com/238076780;Official Weibo of Information Office of Maoming municipal People's government
+195;1980;1981;Zhuhai;Guangdong;Wuhan;10;36;Male;Zhuhai;10;38;Female;Non-household;https://weibo.com/u/3603732332;Offical Weibo of Zhuhai municipal Health Bureau
+196;2011;2012;Zhuhai;Guangdong;Wuhan;16;37;Female;Zhuhai;16;67;Female;No information;https://weibo.com/u/3603732332;Offical Weibo of Zhuhai municipal Health Bureau
+197;2054;2063;Shenzhen;Guangdong;Wuhan;1;62;Male;Shenzhen;10;62;Female;Household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+198;2069;2085;Shenzhen;Guangdong;Wuhan;9;57;Male;Shenzhen;10;54;Female;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+199;2067;2115;Shenzhen;Guangdong;Wuhan;10;73;Male;Shenzhen;14;49;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+200;2067;2116;Shenzhen;Guangdong;Wuhan;10;73;Male;Shenzhen;12;49;Female;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+201;2076;2127;Shenzhen;Guangdong;Wuhan;11;49;Female;Shenzhen;11;26;Female;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+202;2141;2142;Shenzhen;Guangdong;Wuhan;13;65;Male;Shenzhen;14;38;Female;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+203;2123;2155;Shenzhen;Guangdong;Wuhan;12;30;Female;Shenzhen;18;38;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+204;2134;2168;Shenzhen;Guangdong;Wuhan;14;51;Male;Shenzhen;16;39;Male;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+205;2238;2178;Shenzhen;Guangdong;Wuhan;17;34;Female;Shenzhen;16;6;Female;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+206;2176;2180;Shenzhen;Guangdong;Shenzhen;14;49;Female;Shenzhen;14;51;Male;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+207;2176;2181;Shenzhen;Guangdong;Shenzhen;14;49;Female;Shenzhen;13;25;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+208;2076;2193;Shenzhen;Guangdong;Wuhan;11;49;Female;Shenzhen;17;76;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+209;2161;2201;Shenzhen;Guangdong;Lengshui River, Hunan;9;36;Male;Shenzhen;16;34;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+210;2161;2202;Shenzhen;Guangdong;Lengshui River, Hunan;9;36;Male;Shenzhen;15;63;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+211;2179;2212;Shenzhen;Guangdong;Wuhan;14;39;Female;Shenzhen;17;14;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+212;2162;2216;Shenzhen;Guangdong;Wuhan;8;64;Male;Shenzhen;14;37;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+213;2227;2231;Shenzhen;Guangdong;Xianning, Hubei;16;56;Female;Shenzhen;19;29;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+214;2059;2235;Shenzhen;Guangdong;Wuhan;2;69;Male;Shenzhen;15;25;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+215;2226;2250;Shenzhen;Guangdong;Zhijiang, Hubei;18;60;Male;Shenzhen;20;32;Male;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+216;2226;2251;Shenzhen;Guangdong;Zhijiang, Hubei;18;60;Male;Shenzhen;20;6;Male;Household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+217;2226;2252;Shenzhen;Guangdong;Zhijiang, Hubei;18;60;Male;Shenzhen;14;53;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+218;2180;2263;Shenzhen;Guangdong;Shenzhen;14;51;Male;Shenzhen;15;48;Male;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+219;2071;2265;Shenzhen;Guangdong;Wuhan;8;61;Male;Shenzhen;12;61;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+220;2233;2266;Shenzhen;Guangdong;Wuhan;18;37;Male;Shenzhen;21;60;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+221;2267;2268;Shenzhen;Guangdong;Jingzhou, Hubei;20;45;Female;Shenzhen;18;17;Female;Household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+222;2125;2269;Shenzhen;Guangdong;Wuhan;13;78;Male;Shenzhen;14;67;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+223;2264;2270;Shenzhen;Guangdong;Harbin;16;41;Male;Shenzhen;19;40;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+224;2230;2271;Shenzhen;Guangdong;Wuhan;18;29;Male;Shenzhen;15;50;Male;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+225;2230;2272;Shenzhen;Guangdong;Wuhan;18;29;Male;Shenzhen;15;50;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+226;2232;2274;Shenzhen;Guangdong;Wuhan;16;41;Male;Shenzhen;22;12;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+227;2246;2275;Shenzhen;Guangdong;Huanggang, Hubei;18;55;Male;Shenzhen;22;8;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+228;2245;2277;Shenzhen;Guangdong;Wuhan;14;33;Female;Shenzhen;21;7;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+229;2179;2278;Shenzhen;Guangdong;Wuhan;14;39;Female;Shenzhen;17;43;Male;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+230;2153;2279;Shenzhen;Guangdong;Wuhan;14;36;Female;Shenzhen;18;53;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+231;2219;2280;Shenzhen;Guangdong;Wuhan;13;41;Male;Shenzhen;18;41;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+232;2257;2284;Shenzhen;Guangdong;Macao;16;36;Male;Shenzhen;13;31;Female;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+233;2267;2285;Shenzhen;Guangdong;Jingzhou, Hubei;20;45;Female;Shenzhen;16;13;Male;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+234;2256;2289;Shenzhen;Guangdong;Honghu, Hubei;12;56;Female;Shenzhen;20;31;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+235;2161;2291;Shenzhen;Guangdong;Lengshui River, Hunan;9;36;Male;Shenzhen;16;65;Male;Household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+236;2094;2294;Shenzhen;Guangdong;Wuhan;14;7;Female;Shenzhen;20;65;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+237;2253;2295;Shenzhen;Guangdong;Wuhan;19;9;Female;Shenzhen;17;46;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+238;2267;2296;Shenzhen;Guangdong;Jingzhou, Hubei;20;45;Female;Shenzhen;12;50;Male;Household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+239;2261;2300;Shenzhen;Guangdong;Wuhan;14;59;Female;Shenzhen;15;34;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+240;2180;2302;Shenzhen;Guangdong;Shenzhen;14;51;Male;Shenzhen;16;34;Male;Household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+241;2298;2303;Shenzhen;Guangdong;Xiaogan, Hubei;19;46;Male;Shenzhen;17;18;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+242;2173;2304;Shenzhen;Guangdong;Huanggang, Hubei;15;86;Male;Shenzhen;19;45;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+243;2302;2308;Shenzhen;Guangdong;Shenzhen;16;34;Male;Shenzhen;18;34;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+244;2302;2311;Shenzhen;Guangdong;Shenzhen;16;34;Male;Shenzhen;18;4;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+245;2302;2314;Shenzhen;Guangdong;Shenzhen;16;34;Male;Shenzhen;20;50;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+246;2182;2321;Shenzhen;Guangdong;Wuhan;13;47;Female;Shenzhen;12;79;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+247;2136;2322;Shenzhen;Guangdong;Wuhan;7;64;Female;Shenzhen;18;37;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+248;2327;2328;Shenzhen;Guangdong;Ezhou, Hubei;22;36;Male;Shenzhen;22;37;Female;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+249;2327;2329;Shenzhen;Guangdong;Ezhou, Hubei;22;36;Male;Shenzhen;22;7;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+250;2188;2330;Shenzhen;Guangdong;Wuhan;16;78;Male;Shenzhen;20;78;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+251;2325;2331;Shenzhen;Guangdong;Wuhan;15;55;Female;Shenzhen;16;56;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+252;2256;2332;Shenzhen;Guangdong;Honghu, Hubei;12;56;Female;Shenzhen;20;28;Female;Household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+253;2346;2347;Shenzhen;Guangdong;Ganzhou;25;23;Female;Shenzhen;24;31;Male;No information;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+254;2356;2357;Shenzhen;Guangdong;Wuhan;17;50;Male;Shenzhen;17;49;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+255;2292;2358;Shenzhen;Guangdong;Wuhan;20;40;Male;Shenzhen;18;34;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+256;2292;2359;Shenzhen;Guangdong;Wuhan;20;40;Male;Shenzhen;24;2;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+257;2315;2360;Shenzhen;Guangdong;Shenzhen;14;44;Female;Shenzhen;24;13;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+258;2355;2361;Shenzhen;Guangdong;Malaysia-Singapore-Hong Kong;18;64;Female;Shenzhen;22;69;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+259;2362;2363;Shenzhen;Guangdong;Ganzhou;17;56;Male;Shenzhen;17;41;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+260;2240;2364;Shenzhen;Guangdong;Xianning, Hubei;17;35;Male;Shenzhen;26;2;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+261;2299;2366;Shenzhen;Guangdong;Wuhan;16;67;Female;Shenzhen;16;46;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+262;2292;2368;Shenzhen;Guangdong;Wuhan;20;40;Male;Shenzhen;26;66;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+263;2292;2369;Shenzhen;Guangdong;Wuhan;20;40;Male;Shenzhen;26;66;Male;Household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+264;2218;2370;Shenzhen;Guangdong;Shenzhen;19;66;Male;Shenzhen;26;60;Female;Household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+265;2297;2371;Shenzhen;Guangdong;Qianjiang, Hubei;17;38;Male;Shenzhen;19;5;Female;Household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+266;2297;2372;Shenzhen;Guangdong;Qianjiang, Hubei;17;38;Male;Shenzhen;24;36;Female;Household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+267;2309;2373;Shenzhen;Guangdong;Wuhan;15;71;Male;Shenzhen;25;66;Female;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+268;2134;2374;Shenzhen;Guangdong;Wuhan;14;51;Male;Shenzhen;26;2;Male;Non-household;http://wjw.sz.gov.cn/;Shenzhen Municipal Health Commission
+269;2632;2631;Yuxi;Yunnan;Wuhan;22;53;Female;Yuxi;21;70;Female;Non-household;ynswsjkw.yn.gov.cn;Yuxi Municipal Health Commission
+270;2632;2633;Yuxi;Yunnan;Wuhan;22;53;Female;Yuxi;21;72;Male;Household;ynswsjkw.yn.gov.cn;Yuxi Municipal Health Commission
+271;2632;2634;Yuxi;Yunnan;Wuhan;22;53;Female;Yuxi;21;62;Female;No information;ynswsjkw.yn.gov.cn;Yuxi Municipal Health Commission
+272;2632;2635;Yuxi;Yunnan;Wuhan;22;53;Female;Yuxi;21;37;Female;Household;ynswsjkw.yn.gov.cn;Yuxi Municipal Health Commission
+273;2632;2637;Yuxi;Yunnan;Wuhan;22;53;Female;Yuxi;21;10;Female;Household;ynswsjkw.yn.gov.cn;Yuxi Municipal Health Commission
+274;2690;2694;North Sea;Guangxi;Wuhan;13;31;Female;North Sea;16;31;Male;No information;http://xxgk.beihai.gov.cn/bhswshjhsywyh/#.airline;Beihai Municipal Health Commission
+275;2690;2696;North Sea;Guangxi;Wuhan;13;31;Female;North Sea;21;2;Male;Household;http://xxgk.beihai.gov.cn/bhswshjhsywyh/#.airline;Beihai Municipal Health Commission
+276;2684;2697;North Sea;Guangxi;Wuhan;10;41;Female;North Sea;20;43;Male;Non-household;http://xxgk.beihai.gov.cn/bhswshjhsywyh/#.airline;Beihai Municipal Health Commission
+277;2695;2701;North Sea;Guangxi;North Sea;15;29;Female;North Sea;19;53;Female;Household;http://xxgk.beihai.gov.cn/bhswshjhsywyh/#.airline;Beihai Municipal Health Commission
+278;2723;2724;Guilin;Guangxi;Wuhan;9;34;Female;Guilin;13;10;Female;No information;http://wjw.guilin.gov.cn/;Guilin Municipal Health Commission
+279;2720;2731;Guilin;Guangxi;Wuhan;10;41;Male;Guilin;15;70;Male;Non-household;http://wjw.guilin.gov.cn/;Guilin Municipal Health Commission
+280;2732;2735;Guilin;Guangxi;Wuhan;10;33;Female;Guilin;17;42;Male;Non-household;http://wjw.guilin.gov.cn/;Guilin Municipal Health Commission
+281;2736;2737;Guilin;Guangxi;Wuhan;17;30;Male;Guilin;19;58;Female;Non-household;http://wjw.guilin.gov.cn/;Guilin Municipal Health Commission
+282;2741;2743;Guilin;Guangxi;Wuhan;21;24;Male;Guilin;15;24;Female;Non-household;http://wjw.guilin.gov.cn/;Guilin Municipal Health Commission
+283;2742;2746;Guilin;Guangxi;North Sea;8;51;Female;Guilin;25;59;Male;Non-household;http://wjw.guilin.gov.cn/;Guilin Municipal Health Commission
+284;2749;2751;Hechi;Guangxi;Wuhan;11;49;Female;Hechi;17;38;Female;Non-household;http://wjw.hechi.gov.cn/;Hechi Municipal Health Commission
+285;2755;2762;Hechi;Guangxi;Hechi;9;85;Male;Hechi;20;36;Female;Household;http://wjw.hechi.gov.cn/;Hechi Municipal Health Commission
+286;2770;2771;Liuzhou;Guangxi;Wuhan;12;27;Female;Liuzhou;15;41;Male;Non-household;http://wjw.liuzhou.gov.cn/;Liuzhou Municipal Health Commission
+287;2770;2772;Liuzhou;Guangxi;Wuhan;12;27;Female;Liuzhou;16;6;Male;Non-household;http://wjw.liuzhou.gov.cn/;Liuzhou Municipal Health Commission
+288;2770;2773;Liuzhou;Guangxi;Wuhan;12;27;Female;Liuzhou;18;65;Male;Non-household;http://wjw.liuzhou.gov.cn/;Liuzhou Municipal Health Commission
+289;2770;2775;Liuzhou;Guangxi;Wuhan;12;27;Female;Liuzhou;20;51;Female;Household;http://wjw.liuzhou.gov.cn/;Liuzhou Municipal Health Commission
+290;2776;2777;Liuzhou;Guangxi;Liuzhou;18;43;Female;Liuzhou;19;46;Male;Household;http://wjw.liuzhou.gov.cn/;Liuzhou Municipal Health Commission
+291;2770;2779;Liuzhou;Guangxi;Wuhan;12;27;Female;Liuzhou;21;20;Male;Household;http://wjw.liuzhou.gov.cn/;Liuzhou Municipal Health Commission
+292;2770;2780;Liuzhou;Guangxi;Wuhan;12;27;Female;Liuzhou;21;2;Male;Non-household;http://wjw.liuzhou.gov.cn/;Liuzhou Municipal Health Commission
+293;2784;2785;Nanning;Guangxi;Wuhan;14;67;Female;Nanning;14;70;Male;No information;http://wjw.nanning.gov.cn/;Nanning Municipal Health Commission
+294;2784;2786;Nanning;Guangxi;Wuhan;14;67;Female;Nanning;14;35;Female;Non-household;http://wjw.nanning.gov.cn/;Nanning Municipal Health Commission
+295;2790;2791;Nanning;Guangxi;No information;21;49;Male;Nanning;21;20;Male;Non-household;http://wjw.nanning.gov.cn/;Nanning Municipal Health Commission
+296;2790;2792;Nanning;Guangxi;No information;21;49;Male;Nanning;21;49;Female;Non-household;http://wjw.nanning.gov.cn/;Nanning Municipal Health Commission
+297;2790;2799;Nanning;Guangxi;No information;21;49;Male;Nanning;23;90;Male;Household;http://wjw.nanning.gov.cn/;Nanning Municipal Health Commission
+298;2800;2803;Nanning;Guangxi;Nanning;23;70;Male;Nanning;25;5;Female;No information;http://wjw.nanning.gov.cn/;Nanning Municipal Health Commission
+299;2800;2804;Nanning;Guangxi;Nanning;23;70;Male;Nanning;27;70;Female;Non-household;http://wjw.nanning.gov.cn/;Nanning Municipal Health Commission
+300;2813;2814;Yulin;Guangxi;No information;18;35;Female;Yulin;18;71;Male;Non-household;http://wjw.yulin.gov.cn/;Yulin Municipal Health Commission
+301;2915;2916;Suzhou;Jiangsu;Wuhan;21;63;Male;Suzhou;21;64;Female;Non-household;http://wsjkw.suzhou.gov.cn/;Suzhou Municipal Health Commission
+302;2915;2923;Suzhou;Jiangsu;Wuhan;21;63;Male;Suzhou;17;9;Female;No information;http://wsjkw.suzhou.gov.cn/;Suzhou Municipal Health Commission
+303;2959;2960;Nanjing;Jiangsu;Nanjing;17;58;Female;Nanjing;22;72;Female;No information;http://wjw.nanjing.gov.cn/;Nanjing Municipal Health Commission
+304;2959;2961;Nanjing;Jiangsu;Nanjing;17;58;Female;Nanjing;21;68;Male;No information;http://wjw.nanjing.gov.cn/;Nanjing Municipal Health Commission
+305;2989;2992;Xuzhou;Jiangsu;Wuhan;9;;Male;Xuzhou;14;;Female;No information;http://ws.xz.gov.cn/;Xuzhou Municipal Health Commission
+306;2989;2993;Xuzhou;Jiangsu;Wuhan;9;;Male;Xuzhou;14;;Male;No information;http://ws.xz.gov.cn/;Xuzhou Municipal Health Commission
+307;2989;2994;Xuzhou;Jiangsu;Wuhan;9;;Male;Xuzhou;12;;Female;Household;http://ws.xz.gov.cn/;Xuzhou Municipal Health Commission
+308;2996;3029;Xuzhou;Jiangsu;Wuhan;12;;Male;Xuzhou;20;71;Female;No information;http://ws.xz.gov.cn/;Xuzhou Municipal Health Commission
+309;3076;3077;Wuxi;Jiangsu;Wuxi;12;36;Male;Wuxi;19;26;Male;Household;http://wjw.wuxi.gov.cn/;Wuxi Municipal Health Commission
+310;3081;3082;Wuxi;Jiangsu;Hubei;13;58;Male;Wuxi;15;31;Female;No information;http://wjw.wuxi.gov.cn/;Wuxi Municipal Health Commission
+311;3113;3118;Taizhou;Jiangsu;Shiyan;20;53;Male;Taizhou;21;65;Male;Household;http://wjw.taizhou.gov.cn/;Taizhou Municipal Health Commission
+312;3113;3119;Taizhou;Jiangsu;Shiyan;20;53;Male;Taizhou;20;41;Male;Household;http://wjw.taizhou.gov.cn/;Taizhou Municipal Health Commission
+313;3113;3120;Taizhou;Jiangsu;Shiyan;20;53;Male;Taizhou;21;64;Female;Non-household;http://wjw.taizhou.gov.cn/;Taizhou Municipal Health Commission
+314;3135;3137;Nantong;Jiangsu;No information;15;67;Male;Nantong;22;68;Female;No information;http://wjw.nantong.gov.cn/;Nantong Municipal Health Commission
+315;3142;3143;Nantong;Jiangsu;No information;17;56;Male;Nantong;18;55;Female;No information;http://wjw.nantong.gov.cn/;Nantong Municipal Health Commission
+316;3162;3163;Lianyungang;Jiangsu;Lianyungang;23;52;Male;Lianyungang;24;76;Male;No information;http://www.lyg.gov.cn/zglygzfmhwz/xxzx/xxzxRd.htm;Lianyungang Municipal People's Government
+317;3162;3164;Lianyungang;Jiangsu;Lianyungang;23;52;Male;Lianyungang;25;53;Female;Non-household;http://www.lyg.gov.cn/zglygzfmhwz/xxzx/xxzxRd.htm;Lianyungang Municipal People's Government
+318;3205;3213;Yangzhou;Jiangsu;Wuhan;11;47;Female;Yangzhou;12;23;Female;No information;http://wjw.yangzhou.gov.cn/;Yangzhou Municipal Health Commission
+319;3336;3337;Fuzhou;Jiangsu;Fuzhou;16;49;Male;Fuzhou;18;59;Female;No information;http://www.fuzhou.gov.cn/zgfzzt/swjw/fzwj/wjgg/;Fuzhou Municipal Health Commission
+320;3339;3338;Fuzhou;Jiangsu;Wuhan;18;44;Female;Fuzhou;19;49;Male;No information;http://www.fuzhou.gov.cn/zgfzzt/swjw/fzwj/wjgg/;Fuzhou Municipal Health Commission
+321;3339;3340;Fuzhou;Jiangsu;Wuhan;18;44;Female;Fuzhou;13;43;Female;No information;http://www.fuzhou.gov.cn/zgfzzt/swjw/fzwj/wjgg/;Fuzhou Municipal Health Commission
+322;3353;3354;Fuzhou;Jiangsu;Fuzhou;16;45;Male;Fuzhou;22;32;Male;No information;http://www.fuzhou.gov.cn/zgfzzt/swjw/fzwj/wjgg/;Fuzhou Municipal Health Commission
+323;3353;3355;Fuzhou;Jiangsu;Fuzhou;16;45;Male;Fuzhou;22;32;Female;No information;http://www.fuzhou.gov.cn/zgfzzt/swjw/fzwj/wjgg/;Fuzhou Municipal Health Commission
+324;3357;3356;Fuzhou;Jiangsu;Zhuzhou, Hunan Province;16;66;Female;Fuzhou;20;72;Male;No information;http://www.fuzhou.gov.cn/zgfzzt/swjw/fzwj/wjgg/;Fuzhou Municipal Health Commission
+325;3357;3371;Fuzhou;Jiangsu;Zhuzhou, Hunan Province;16;66;Female;Fuzhou;16;45;Male;Household;http://www.fuzhou.gov.cn/zgfzzt/swjw/fzwj/wjgg/;Fuzhou Municipal Health Commission
+326;3840;3841;Xinyang;Henan;Wuhan;8;46;Male;Xinyang;9;80;Female;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+327;3840;3842;Xinyang;Henan;Wuhan;8;46;Male;Xinyang;13;46;Female;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+328;3840;3843;Xinyang;Henan;Wuhan;8;46;Male;Xinyang;12;45;Female;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+329;3841;3844;Xinyang;Henan;Xinyang;9;80;Female;Xinyang;17;56;Female;Non-household;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+330;3845;3889;Xinyang;Henan;Xinyang;8;52;Male;Xinyang;13;52;Female;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+331;3905;3906;Xinyang;Henan;Xinyang;12;52;Female;Xinyang;13;27;Female;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+332;3869;3913;Xinyang;Henan;Wuhan;11;56;Female;Xinyang;10;29;Male;Household;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+333;3923;3924;Xinyang;Henan;Wuhan;14;46;Female;Xinyang;16;42;Male;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+334;3840;3934;Xinyang;Henan;Wuhan;8;46;Male;Xinyang;19;57;Male;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+335;3908;3948;Xinyang;Henan;Wuhan;13;28;Female;Xinyang;21;26;Male;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+336;3905;3949;Xinyang;Henan;Xinyang;12;52;Female;Xinyang;19;54;Male;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+337;3907;3951;Xinyang;Henan;Xinyang;9;53;Male;Xinyang;12;28;Female;Household;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+338;3951;3952;Xinyang;Henan;Xinyang;12;28;Female;Xinyang;16;52;Female;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+339;3845;3955;Xinyang;Henan;Xinyang;8;52;Male;Xinyang;18;44;Male;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+340;3899;3969;Xinyang;Henan;Wuhan;14;30;Male;Xinyang;23;56;Male;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+341;3884;3973;Xinyang;Henan;Wuhan;17;27;Male;Xinyang;25;1;Male;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+342;3884;3974;Xinyang;Henan;Wuhan;17;27;Male;Xinyang;22;52;Female;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+343;3995;3996;Xinyang;Henan;Xinyang;21;71;Male;Xinyang;22;68;Female;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+344;4011;4012;Xinyang;Henan;Xinyang;17;62;Male;Xinyang;12;57;Female;Non-household;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+345;3907;4013;Xinyang;Henan;Xinyang;9;53;Male;Xinyang;24;48;Male;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+346;3894;4014;Xinyang;Henan;Wuhan;16;61;Male;Xinyang;20;60;Female;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+347;3894;4015;Xinyang;Henan;Wuhan;16;61;Male;Xinyang;17;32;Male;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+348;3867;4020;Xinyang;Henan;Wuhan;10;18;Female;Xinyang;22;69;Female;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+349;4022;4023;Xinyang;Hubei;Wuhan;27;30;Male;Xinyang;23;60;Female;No information;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+350;3938;4025;Xinyang;Henan;Xinyang;16;51;Male;Xinyang;25;79;Female;Household;http://www.hnxywjw.gov.cn/;Xinyang Municipal Health Commission
+351;4089;4046;Nanyang;Hubei;Wuhan;19;36;Male;Nanyang;9;29;Female;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+352;4089;4047;Nanyang;Henan;Wuhan;19;36;Male;Nanyang;9;58;Male;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+353;4027;4074;Nanyang;Henan;Wuhan;12;62;Male;Nanyang;13;69;Male;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+354;4044;4081;Nanyang;Henan;Wuhan;10;55;Female;Nanyang;19;48;Male;Non-household;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+355;4044;4082;Nanyang;Henan;Wuhan;10;55;Female;Nanyang;18;33;Female;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+356;4044;4084;Nanyang;Henan;Wuhan;10;55;Female;Nanyang;20;30;Female;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+357;4065;4088;Nanyang;Henan;Nanyang;4;59;Male;Nanyang;14;56;Female;Non-household;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+358;4113;4114;Nanyang;Henan;Wuhan;15;33;Male;Nanyang;15;6;Male;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+359;4044;4117;Nanyang;Henan;Wuhan;10;55;Female;Nanyang;21;33;Female;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+360;4096;4119;Nanyang;Henan;Wuhan;7;57;Male;Nanyang;21;50;Female;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+361;4087;4120;Nanyang;Hubei;Wuhan;12;34;Male;Nanyang;22;3;Male;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+362;4078;4124;Nanyang;Henan;Wuhan;19;22;Male;Nanyang;22;54;Female;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+363;4110;4134;Nanyang;Henan;Wuhan;20;29;Male;Nanyang;23;59;Female;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+364;4088;4135;Nanyang;Henan;Nanyang;14;56;Female;Nanyang;22;59;Female;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+365;4109;4141;Nanyang;Henan;Xiangyang, Hubei;19;27;Female;Nanyang;25;64;Female;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+366;4057;4142;Nanyang;Henan;Wuhan;12;29;Male;Nanyang;22;30;Male;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+367;4116;4143;Nanyang;Henan;Nanyang;18;69;Female;Nanyang;24;54;Male;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+368;4065;4146;Nanyang;Henan;Nanyang;4;59;Male;Nanyang;24;74;Male;No information;http://nyws.nanyang.gov.cn/;Nanyang Municipal Health Commission
+369;4162;4163;Jiaozuo;Henan;Nanning, Guangxi Province;16;47;Female;Jiaozuo;21;83;Female;No information;http://www.jzswjw.gov.cn/;Jiaozuo Municipal Health Commission
+370;4165;4166;Jiaozuo;Henan;No information;22;28;Male;Jiaozuo;22;58;Male;No information;http://www.jzswjw.gov.cn/;Jiaozuo Municipal Health Commission
+371;4162;4167;Jiaozuo;Henan;Nanning, Guangxi Province;16;47;Female;Jiaozuo;11;52;Male;Household;http://www.jzswjw.gov.cn/;Jiaozuo Municipal Health Commission
+372;4163;4169;Jiaozuo;Henan;Jiaozuo;21;83;Female;Jiaozuo;21;31;Male;No information;http://www.jzswjw.gov.cn/;Jiaozuo Municipal Health Commission
+373;4171;4172;Jiaozuo;Henan;No information;22;52;Male;Jiaozuo;22;51;Female;No information;http://www.jzswjw.gov.cn/;Jiaozuo Municipal Health Commission
+374;4175;4176;Kaifeng;Henan;Wuhan;17;39;Female;Kaifeng;17;40;Male;Household;http://www.kfwsjsw.gov.cn/;Kaifeng Municipal Health Commission
+375;4187;4188;Kaifeng;Henan;Wuhan;24;33;Male;Kaifeng;24;33;Female;No information;http://www.kfwsjsw.gov.cn/;Kaifeng Municipal Health Commission
+376;4184;4190;Kaifeng;Henan;Shenzhen;22;33;Male;Kaifeng;24;43;Female;No information;http://www.kfwsjsw.gov.cn/;Kaifeng Municipal Health Commission
+377;4183;4191;Kaifeng;Henan;Wuhan;17;30;Male;Kaifeng;27;28;Female;No information;http://www.kfwsjsw.gov.cn/;Kaifeng Municipal Health Commission
+378;4192;4193;Anyang;Henan;Anyang;13;45;Male;Anyang;4;47;Female;No information;https://weibo.com/ayxww;Official Weibo of Anyang municipal People's government
+379;4192;4194;Anyang;Henan;Anyang;13;45;Male;Anyang;15;48;Female;No information;https://weibo.com/ayxww;Official Weibo of Anyang municipal People's government
+380;4266;4268;Xu Chang;Henan;Wuhan;14;51;Female;Xu Chang;17;29;Female;No information;http://xcswjw.xuchang.gov.cn/;Xu Chang Municipal Health Commission
+381;4281;4282;Xu Chang;Henan;Wuhan;16;24;Male;Xu Chang;19;51;Female;No information;http://xcswjw.xuchang.gov.cn/;Xu Chang Municipal Health Commission
+382;4266;4283;Xu Chang;Henan;Wuhan;14;51;Female;Xu Chang;21;63;NaN;No information;http://xcswjw.xuchang.gov.cn/;Xu Chang Municipal Health Commission
+383;4285;4286;Xu Chang;Henan;Xu Chang;17;60;Female;Xu Chang;18;59;Male;Household;http://xcswjw.xuchang.gov.cn/;Xu Chang Municipal Health Commission
+384;4320;4321;Hebi;Henan;Wuhan;25;31;Male;Hebi;24;30;Female;No information;https://wsjkw.hebi.gov.cn/;Hebi Municipal Health Commission
+385;4322;4323;Hebi;Henan;Wuhan;29;53;Male;Hebi;28;53;Female;No information;https://wsjkw.hebi.gov.cn/;Hebi Municipal Health Commission
+386;4322;4324;Hebi;Henan;Wuhan;29;53;Male;Hebi;18;32;Male;Non-household';https://wsjkw.hebi.gov.cn/;Hebi Municipal Health Commission
+387;4329;4330;Sanmenxia;Henan;Wuhan;12;49;Female;Sanmenxia;14;80;Female;No information;http://wjw.smx.gov.cn/;Sanmenxia Municipal Health Commission
+388;4347;4353;Shangqiu;Henan;Wuhan;14;32;Male;Shangqiu;15;32;Female;No information;http://www.shangqiu.gov.cn/Category_1026/Index.aspx;Shangqiu Municipal People's Government
+389;4339;4355;Shangqiu;Henan;Wuhan;14;45;Female;Shangqiu;16;50;Male;No information;http://www.shangqiu.gov.cn/Category_1026/Index.aspx;Shangqiu Municipal People's Government
+390;4402;4403;Zhoukou;Henan;Wuhan;11;21;Male;Zhoukou;13;19;Male;No information;http://www.hazhoukou.gov.cn/Home/gkml?code=gstg;Zhoukou Municipal People's Government
+391;4404;4405;Zhoukou;Henan;Wuhan;8;46;Male;Zhoukou;9;49;Female;No information;http://www.hazhoukou.gov.cn/Home/gkml?code=gstg;Zhoukou Municipal People's Government
+392;4407;4408;Zhoukou;Henan;No information;7;26;Male;Zhoukou;13;28;Female;No information;http://www.hazhoukou.gov.cn/Home/gkml?code=gstg;Zhoukou Municipal People's Government
+393;4407;4409;Zhoukou;Henan;No information;7;26;Male;Zhoukou;14;51;Female;No information;http://www.hazhoukou.gov.cn/Home/gkml?code=gstg;Zhoukou Municipal People's Government
+394;4412;4433;Zhoukou;Henan;Wuhan;8;40;Male;Zhoukou;17;44;Female;No information;http://www.hazhoukou.gov.cn/Home/gkml?code=gstg;Zhoukou Municipal People's Government
+395;4405;4440;Zhoukou;Henan;Zhoukou;9;49;Female;Zhoukou;11;79;Female;No information;http://www.hazhoukou.gov.cn/Home/gkml?code=gstg;Zhoukou Municipal People's Government
+396;4440;4447;Zhoukou;Henan;Zhoukou;11;79;Female;Zhoukou;19;70;Female;No information;http://www.hazhoukou.gov.cn/Home/gkml?code=gstg;Zhoukou Municipal People's Government
+397;4402;4449;Zhoukou;Hubei;Wuhan;11;21;Male;Zhoukou;17;47;Male;No information;http://www.hazhoukou.gov.cn/Home/gkml?code=gstg;Zhoukou Municipal People's Government
+398;4420;4452;Zhoukou;Hubei;Wuhan;13;35;Male;Zhoukou;18;33;Female;No information;http://www.hazhoukou.gov.cn/Home/gkml?code=gstg;Zhoukou Municipal People's Government
+399;4420;4453;Zhoukou;Henan;Wuhan;13;35;Male;Zhoukou;9;31;Female;No information;http://www.hazhoukou.gov.cn/Home/gkml?code=gstg;Zhoukou Municipal People's Government
+400;4456;4457;Zhoukou;Henan;Zhoukou;16;56;Female;Zhoukou;18;57;Male;No information;http://www.hazhoukou.gov.cn/Home/gkml?code=gstg;Zhoukou Municipal People's Government
+401;4460;4462;Zhoukou;Henan;Zhoukou;19;70;Male;Zhoukou;20;25;Female;No information;http://www.hazhoukou.gov.cn/Home/gkml?code=gstg;Zhoukou Municipal People's Government
+402;5512;5516;Jiaxing;Zhejiang;Wuhan;10;30;Male;Jiaxing;14;52;Female;Non-household;http://wsjkw.jiaxing.gov.cn/;Jiaxing Municipal Health Commission
+403;5510;5517;Jiaxing;Zhejiang;Wuhan;8;57;Male;Jiaxing;6;55;Female;Non-household;http://wsjkw.jiaxing.gov.cn/;Jiaxing Municipal Health Commission
+404;5550;5551;Lishui;Zhejiang;Yueqing;10;46;Male;Lishui;14;72;Male;Non-household;http://wsjsw.lishui.gov.cn/;Lishui Municipal Health Commission
+405;5770;5771;Huaihua;Hunan;Wuhan;-3;36;Female;Huaihua;0;31;Male;No information;http://www.huaihua.gov.cn/wsjkw/c100577/list.shtml;Huaihua Municipal Health Commission
+406;5871;5870;Changde;Hunan;Wuhan;12;51;Female;Changde;14;51;Male;No information;http://wjw.changde.gov.cn;Changde Municipal Health Commission
+407;6427;6430;Liaoyuan;Jilin;Wuhan;15;60;Male;Liaoyuan;21;47;Male;No information;http://wjw.liaoyuan.gov.cn;Liaoyuan Municipal Health Commission
+408;6427;6431;Liaoyuan;Jilin;Wuhan;15;60;Male;Liaoyuan;23;7;Female;No information;http://wjw.liaoyuan.gov.cn;Liaoyuan Municipal Health Commission
+409;6453;6454;Shenyang;Liaoning;Wuhan;13;21;Female;Shenyang;14;44;Male;No information;http://wjw.shenyang.gov.cn/;Shenyang Municipal Health Commission
+410;6453;6455;Shenyang;Liaoning;Wuhan;13;21;Female;Shenyang;15;45;Female;Household;http://wjw.shenyang.gov.cn/;Shenyang Municipal Health Commission
+411;6478;6480;Dalian;Liaoning;Wuhan;1;46;Male;Dalian;14;78;Female;Non-household;http://hcod.dl.gov.cn/web/guest;Dalian Municipal Health Commission
+412;6477;6487;Dalian;Liaoning;Wuhan;6;37;Male;Dalian;20;63;Female;No information;http://hcod.dl.gov.cn/web/guest;Dalian Municipal Health Commission
+413;6495;6496;Jinzhou;Liaoning;Wuhan;13;35;Male;Jinzhou;18;34;Female;Household;http://wjw.jz.gov.cn/jzwswindex/photolist?id=1305;Jinzhou Municipal Health Commission
+414;6495;6499;Jinzhou;Liaoning;Wuhan;13;35;Male;Jinzhou;21;8;Female;Household;http://wjw.jz.gov.cn/jzwswindex/photolist?id=1305;Jinzhou Municipal Health Commission
+415;6495;6500;Jinzhou;Liaoning;Wuhan;13;35;Male;Jinzhou;29;55;Female;Household;http://wjw.jz.gov.cn/jzwswindex/photolist?id=1305;Jinzhou Municipal Health Commission
+416;6516;6519;Huludao;Liaoning;Wuhan;13;60;Female;Huludao;18;33;Male;Household;http://wsjk.hld.gov.cn/;Huludao Municipal Health Commission
+417;6530;6531;Fuxin;Liaoning;Fuxin;13;55;Female;Fuxin;14;81;Female;No information;http://www.fuxin.gov.cn/fxswsj/;Fuxin Municipal Health Commission
+418;6533;6535;Tieling;Liaoning;No information;12;51;Male;Tieling;15;51;Male;Household;http://wjw.tieling.gov.cn/tielingws/tzgg/index.html;Tieling Municipal Health Commission
+419;6544;6546;Chaoyang;Liaoning;Wuhan;12;42;Male;Chaoyang;18;72;Male;Non-household;http://www.zgcy.gov.cn/ZGCY/zwgk/004050/;Chaoyang Municipal People's Government
+420;6586;6591;Lanzhou;Gansu;Taizhou;13;44;Male;Lanzhou;22;40;Female;Household;http://wsjk.gansu.gov.cn/;Gansu Province Municipal Health Commission
+421;6585;6592;Lanzhou;Gansu;Lanzhou;18;73;Female;Lanzhou;20;49;Male;Household;http://wsjk.gansu.gov.cn/;Gansu Province Municipal Health Commission
+422;6585;6594;Lanzhou;Gansu;Lanzhou;18;73;Female;Lanzhou;26;46;Female;No information;http://wsjk.gansu.gov.cn/;Gansu Province Municipal Health Commission
+423;6588;6606;Dingxi;Gansu;Thailand;11;51;Female;Dingxi;11;54;Female;No information;http://wsjk.gansu.gov.cn/;Gansu Province Municipal Health Commission
+424;6588;6607;Dingxi;Gansu;Thailand;11;51;Female;Dingxi;14;29;Female;Non-household;http://wsjk.gansu.gov.cn/;Gansu Province Municipal Health Commission
+425;6588;6608;Dingxi;Gansu;Thailand;11;51;Female;Dingxi;11;38;Female;No information;http://wsjk.gansu.gov.cn/;Gansu Province Municipal Health Commission
+426;6609;6610;Pingliang;Gansu;Pingliang;20;29;Male;Pingliang;22;27;Female;No information;http://wsjk.gansu.gov.cn/;Gansu Province Municipal Health Commission
+427;6612;6620;Tianshui;Gansu;Wuhan;18;63;Male;Tianshui;16;68;Male;Non-household;http://wsjk.gansu.gov.cn/;Gansu Province Municipal Health Commission
+428;6612;6621;Tianshui;Gansu;Wuhan;18;63;Male;Tianshui;19;55;Female;Non-household;http://wsjk.gansu.gov.cn/;Gansu Province Municipal Health Commission
+429;6634;6640;Xi'an;Shaanxi;Xi'an;8;66;Male;Xi'an;15;32;Male;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+430;6632;6643;Xi'an;Shaanxi;Xi'an;15;70;Male;Xi'an;16;70;Female;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+431;6639;6647;Xi'an;Shaanxi;Xi'an;13;55;Male;Xi'an;18;55;Female;Non-household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+432;6635;6648;Xi'an;Shaanxi;Xiaogan City, Hubei Province;13;45;Female;Xi'an;16;13;Male;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+433;6634;6652;Xi'an;Shaanxi;Xi'an;8;66;Male;Xi'an;8;57;Female;Non-household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+434;6627;6655;Xi'an;Shaanxi;Wuhan;0;64;Female;Xi'an;16;62;Male;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+435;6656;6657;Xi'an;Shaanxi;Wuhan;18;39;Female;Xi'an;17;41;Male;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+436;6655;6664;Xi'an;Shaanxi;Wuhan;16;62;Male;Xi'an;12;34;Female;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+437;6642;6669;Xi'an;Shaanxi;Shanghai;14;49;Female;Xi'an;15;47;Female;Household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+438;6634;6673;Xi'an;Shaanxi;Xi'an;8;66;Male;Xi'an;15;35;Female;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+439;6639;6675;Xi'an;Shaanxi;Xi'an;13;55;Male;Xi'an;17;24;Male;Household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+440;6641;6680;Xi'an;Shaanxi;Wuhan;16;49;Female;Xi'an;18;52;Male;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+441;6670;6681;Xi'an;Shaanxi;Xi'an;20;54;Male;Xi'an;22;53;Female;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+442;6642;6683;Xi'an;Shaanxi;Shanghai;14;49;Female;Xi'an;21;50;Female;Non-household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+443;6658;6685;Xi'an;Shaanxi;Wuhan;18;40;Male;Xi'an;14;33;Male;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+444;6688;6689;Xi'an;Shaanxi;Xi'an;13;47;Male;Xi'an;18;43;Female;Non-household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+445;6656;6695;Xi'an;Shaanxi;Wuhan;18;39;Female;Xi'an;24;65;Male;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+446;6684;6701;Xi'an;Shaanxi;Xi'an;22;66;Male;Xi'an;25;69;Female;Non-household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+447;6658;6705;Xi'an;Shaanxi;Wuhan;18;40;Male;Xi'an;20;65;Female;Non-household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+448;6710;6714;Weinan;Shaanxi;Wuhan;10;68;Male;Weinan;21;37;Female;Household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+449;2811;6717;Yulin;Shaanxi;No information;5;40;Male;Yulin;18;60;Male;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+450;6720;6721;Baoji;Shaanxi;Baoji;8;46;Female;Baoji;12;50;Male;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+451;6722;6724;Baoji;Shaanxi;Wuhan;11;46;Male;Baoji;17;43;Female;Household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+452;6722;6725;Baoji;Shaanxi;Wuhan;11;46;Male;Baoji;19;64;Male;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+453;6722;6727;Baoji;Shaanxi;Wuhan;11;46;Male;Baoji;11;56;Male;Household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+454;6723;6730;Baoji;Shaanxi;Wuhan;14;27;Male;Baoji;24;71;Male;Household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+455;6623;6733;Shangluo;Shaanxi;Wuhan;10;22;Male;Shangluo;15;32;Female;Non-household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+456;6747;6746;Hanzhong;Shaanxi;Wuhan;12;38;Female;Hanzhong;17;37;Male;Non-household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+457;6753;6754;Hanzhong;Shaanxi;Hanzhong;21;41;Male;Hanzhong;17;39;Female;Household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+458;6776;6781;Tongchuan;Shaanxi;Wuhan;13;46;Male;Tongchuan;17;74;Male;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+459;6776;6782;Tongchuan;Shaanxi;Wuhan;13;46;Male;Tongchuan;19;76;Female;Non-household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+460;6776;6783;Tongchuan;Shaanxi;Wuhan;13;46;Male;Tongchuan;19;27;Female;Non-household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+461;6746;6798;Xianyang;Shaanxi;Wuhan;17;37;Male;Xianyang;15;41;Female;Household;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+462;6796;6799;Xianyang;Shaanxi;Wuhan;14;62;Female;Xianyang;18;40;Male;No information;http://sxwjw.shaanxi.gov.cn/;Shanxi Province Municipal Health Commission
+463;6805;6806;Daqing;Heilongjiang;Wuhan;8;;Female;Daqing;8;;Female;No information;http://www.daqing.gov.cn/;Daqing Municipal People's Government
+464;6805;6807;Daqing;Heilongjiang;Wuhan;8;;Female;Daqing;11;;Female;Non-household;http://www.daqing.gov.cn/;Daqing Municipal People's Government
+465;6805;6809;Daqing;Heilongjiang;Wuhan;8;;Female;Daqing;17;;Female;No information;http://www.daqing.gov.cn/;Daqing Municipal People's Government
+466;6805;6810;Daqing;Heilongjiang;Wuhan;8;;Female;Daqing;19;;Male;No information;http://www.daqing.gov.cn/;Daqing Municipal People's Government
+467;6811;6812;Daqing;Heilongjiang;Wuhan;13;;No information;Daqing;18;;Female;Household;http://www.daqing.gov.cn/;Daqing Municipal People's Government
+468;6811;6813;Daqing;Heilongjiang;Wuhan;13;;No information;Daqing;20;;Male;Household;http://www.daqing.gov.cn/;Daqing Municipal People's Government
